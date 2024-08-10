@@ -1,0 +1,205 @@
+.b{
+    font-size: 50px;
+    font-weight: 1000;
+    text-align: center;
+    text-align: justify;
+    text-shadow: 5px 5px 5px rgb(213, 18, 83);
+    color: rgb(240, 113, 138);
+}
+img{
+    width: 40%;
+    height: 400px;
+}
+.d{
+    font-size: 50px;
+    font-weight: 1000;
+    text-align: center;
+    text-align: justify;
+    text-shadow: 5px 5px 5px rgb(250, 7, 88);
+    color: rgb(227, 106, 227);
+}
+.g{
+    text-align: center; 
+    background-image: url('https://i.pinimg.com/736x/0a/a8/bf/0aa8bfa73e2f93d3816b75bbd1b4a95a.jpg');  
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+.h{
+    text-align: center;
+    background-image: url('https://img.freepik.com/premium-vector/modern-color-background-eps-vector_624167-370.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.i{
+    text-align: center;
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/223/543/599/black-and-white-book-pages-paper-wallpaper-preview.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+} 
+.j{
+    text-align: center;  
+    background-image: url('https://media.istockphoto.com/id/1053932404/photo/human-skull-on-old-open-book-on-black-background-dramatic-concept.jpg?s=612x612&w=0&k=20&c=9NNPGr1BNSvGHMUXuXgWE6hIA2HgC4ahmUzC8b0XeKs=');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.k{
+    text-align: center; 
+    background-image: url('https://media.istockphoto.com/id/515685379/photo/containing-a-world-of-magic-and-mystery.jpg?s=612x612&w=0&k=20&c=ARCX9Ra4dNJ2bBMIpaeauU1IYkrGztTIjTROGsOCOdE=');  
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+.l{
+    text-align: center;   
+    background-image: url('https://i.pinimg.com/originals/5f/cc/77/5fcc77b457de341705a88cfd7331089a.jpg');  
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+.o{
+    text-align: center;   
+    background-image: url('https://www.bbvaopenmind.com/wp-content/uploads/2015/11/BBVA-OpenMind-J-Adolfo-de-Azcarraga-El-legado-de-Albert-Einstein-1979-1955.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.n{
+    text-align: center;   
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsXwHExxoghr5OnyoJkkkNY5OY0jaGwaxlFQ&s');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.m{
+    text-align: center;   
+    background-image: url('https://cdn.mos.cms.futurecdn.net/t9GVThKZRWi2cA8MgjjUAS.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.p{
+    text-align: center;   
+    background-image: url('https://t4.ftcdn.net/jpg/06/65/57/97/360_F_665579730_E8E7vwGtk93qGM0TfCViTQ2fVNdgjgyz.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.q{
+    text-align: center;   
+    background-image: url('https://www.quasarex.com/wp-content/uploads/2021/08/charles-darwin-biography.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.r{
+    text-align: center;   
+    background-image: url('https://www.somervilletheatre.com/wp-content/uploads/2024/04/unnamed-file-12.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.s{
+    text-align: center;   
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/563/830/516/scream-mask-movies-ghostface-wallpaper-thumb.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.t{
+    text-align: center;   
+    background-image: url('https://wallpapers.com/images/hd/the-exorcist-black-and-white-pxtid32segkt9xix.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.u{
+    text-align: center;   
+    background-image: url('https://img.freepik.com/premium-photo/there-are-many-birds-flying-sky-trees-generative-ai_1034059-45426.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.v{
+    text-align: center;   
+    background-image: url('https://m.media-amazon.com/images/I/71NI+fGk58L._AC_UF1000,1000_QL80_.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.w{
+    text-align: center;   
+    background-image: url('https://blabbaholicsandbookworms.com/wp-content/uploads/2017/08/img_6453.jpg?w=540');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.x{
+    text-align: center;   
+    background-image: url('https://thumbs.dreamstime.com/b/shiva-hindu-god-giving-blessing-glowing-sahasrara-crown-chakra-circle-design-background-beautiful-black-hand-drawn-242173132.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.y{
+    text-align: center;   
+    background-image: url('https://images.squarespace-cdn.com/content/v1/6265ca4e60d87e31d0832ea4/b8241a10-0589-40c1-8790-891e958c0157/1673956.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.z{
+    text-align: center;   
+    background-image: url('https://c8.alamy.com/comp/M3N7H9/gravestone-for-mary-housekeeper-in-a-cemetery-M3N7H9.jpg');  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+.e{
+    font-size: 60px;
+    font-weight: 1000;
+    text-align: center;
+    text-align: justify;
+    text-shadow: 5px 5px 5px rgb(79, 31, 167);
+    color: yellow;
+}
+.f{
+    font-size: 70px;
+    font-weight: 1000;
+    text-align: center;
+    text-align: justify;
+    text-shadow: 5px 4px 5px rgb(42, 237, 81);
+    color:lawngreen;
+}
+ul{
+    list-style: none;
+    background-color: aliceblue;
+    /* position:fixed; */
+}
+a{
+    /* font-size: 30px; */
+     color: blue; text-decoration: none;font-weight: 200; 
+     margin-left: 20px;
+    font-style: italic;  font-size: 50px;
+}
+
+li{
+    float: left;
+}
+li:hover{
+    background-color: gold;
+     color: gold;
+     font-size: 60px;
+}
+.mn{
+    font-size: 60px;
+    font-weight: 1000;
+    text-align: center;
+    text-align: justify;
+    text-shadow: 5px 5px 5px rgb(11, 247, 58);
+    color: rgb(4, 111, 8);
+}
+
